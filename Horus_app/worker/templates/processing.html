@@ -1,0 +1,164 @@
+{% extends 'base.html' %}
+
+{% block head %}
+    <script src="https://code.jquery.com/jquery-3.5.1.js" type="text/javascript"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.19.1/jquery.validate.min.js"></script>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js" integrity="sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV" crossorigin="anonymous"></script>
+{% endblock %}
+{% block body %}
+  <div id="container" class="h-100 p-1 container-fluid">
+    <div class="row h-100 p-1">
+      <div class="col-md-10 h-100 p-1">
+        <div id="row" class="p-md-3 d-block">
+          <p class="h4 text-md-center">Most recent image received between {{dateFrom}} and {{dateTo}}</p>
+        </div>
+        <div id="row" class="d-block">
+          <div class="h-100 p-1 sentinel" id="sentineResponse" >
+            <img src="static/img/{{imgfile}}" id="satImage">
+            
+
+            <!-- {{mapsize}}
+            {{imgnumber}}
+            {{nnfile}}
+            {{totalExec}} -->
+          </div>
+        </div>  
+      </div>
+      <div class="col-md-2 h-100 p-1">
+        <div id="row" class="p-md-3 d-block text-center">
+          <p class="h4 text-md-center">Horus Preprocess</p>
+        </div>
+        <div id="row" class="p-md-1 d-block text-center">
+          <div id="results" class="container-fluid p-2">
+            <div id="row" class="col-md-12 nopadding">
+              <table class="table table-sm table-borderless table-condensed">
+                <thead class="thead-primary">
+                  <tr class="bg-info">
+                    <th><p class="h5 text-md-center text-light">Total execution time: </p></th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>  
+                    <td><p class="h6 text-md-center">{{totalExec}} minutes</p></td>
+                  </tr> 
+                </tbody>
+              </table>
+            </div>
+            <div id="row" class="col-md-12 nopadding">
+              <table class="table table-sm table-borderless table-condensed">
+                <thead class="thead-primary">
+                  <tr class="bg-info">
+                    <th><p class="h5 text-md-center text-light nobottom">Satelite: </p></th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>  
+                    <td><p class="h6 text-md-center">{{satelite}}</p></td>
+                  </tr> 
+                </tbody>
+              </table>
+            </div>
+            <div id="row" class="col-md-12 nopadding">
+              <table class="table table-sm table-borderless table-condensed">
+                <thead class="thead-primary">
+                  <tr class="bg-info">
+                    <th><p class="h5 text-md-center text-light nobottom">Bands: </p></th>
+                  </tr>
+                </thead>
+                <tbody>
+                  {% for b in bands %}
+                    <tr>  
+                      <td><p class="h6 text-md-center">{{ b }}</p></td>
+                    </tr> 
+                  {% endfor %}
+                </tbody>
+              </table>
+            </div>
+            <div id="row" class="col-md-12 nopadding">
+              <table class="table table-sm table-borderless table-condensed">
+                <thead class="thead-primary">
+                  <tr class="bg-info">
+                    <th><p class="h5 text-md-center text-light nobottom">Indexes: </p></th>
+                  </tr>
+                </thead>
+                <tbody>
+                  {% for p in extraParam %}
+                    <tr>  
+                      <td><p class="h6 text-md-center">{{ p }}</p></td>
+                    </tr> 
+                  {% endfor %}
+                </tbody>
+              </table>
+            </div>
+            <div id="row" class="col-md-12 nopadding">
+              <table class="table table-sm table-borderless table-condensed">
+                <thead class="thead-primary">
+                  <tr class="bg-info">
+                    <th><p class="h5 text-md-center text-light nobottom">Date from: </p></th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>  
+                    <td><p class="h6 text-md-center">{{dateFrom}}</p></td>
+                  </tr> 
+                </tbody>
+              </table>
+            </div>
+            <div id="row" class="col-md-12 nopadding">
+              <table class="table table-sm table-borderless table-condensed">
+                <thead class="thead-primary">
+                  <tr class="bg-info">
+                    <th><p class="h5 text-md-center text-light nobottom">Date to: </p></th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>  
+                    <td><p class="h6 text-md-center">{{dateTo}}</p></td>
+                  </tr> 
+                </tbody>
+              </table>
+            </div>
+            <div id="row" class="col-md-12 nopadding">
+              <table class="table table-sm table-borderless table-condensed">
+                <thead class="thead-primary">
+                  <tr class="bg-info">
+                    <th><p class="h5 text-md-center text-light nobottom">Bounding box: </p></th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <table class="table table-borderless table-condensed">
+                    <tbody>       
+                      <tr>
+                        <th></th>
+                        <th>Latitude</th>
+                        <th>Longitude</th>
+                      </tr>         
+                      <tr>
+                        <td>Lower left:</td>
+                        <td>{{lllat}}</td>
+                        <td>{{lllon}}</td>
+                      </tr>
+                      <tr>
+                        <td>Upper right:</td>
+                        <td>{{urlat}}</td>
+                        <td>{{urlon}}</td>
+                      </tr>
+                    </tbody>
+                  </table>
+                </tbody>
+              </table>
+            </div>
+            <div id="row" class="col-md-12 nopadding">  
+              <form method="POST" action="/" id="new_selection_input" name="new_selection" onsubmit="return confirm('Do you really want returm for a new selection?');">
+                <button class="btn btn-primary btn-lg btn-block" type="Submit" id="new_selection_button" >New selection!</button>
+              </form>
+            </div>
+          </div>  
+        </div>
+      </div>
+    </div>
+  </div>
+{% endblock %}
+
+

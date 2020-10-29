@@ -1,0 +1,2042 @@
+[
+	{
+		"pointname": "SIC_9_0",
+		"lon": 23.852519987126247,
+		"lat": 46.895780088442166,
+		"soil": "Faeoziom",
+		"size": 60,
+		"label": 4
+	},
+	{
+		"pointname": "SIC_22_1",
+		"lon": 23.853711050877934,
+		"lat": 46.89977335360845,
+		"soil": "Faeoziom",
+		"size": 60,
+		"label": 10
+	},
+	{
+		"pointname": "SIC_24_2",
+		"lon": 23.85769590167682,
+		"lat": 46.9008253208072,
+		"soil": "Faeoziom",
+		"size": 40,
+		"label": 10
+	},
+	{
+		"pointname": "SIC_1_3",
+		"lon": 23.855882280648704,
+		"lat": 46.90516304893566,
+		"soil": "Regosol",
+		"size": 20,
+		"label": 0
+	},
+	{
+		"pointname": "SIC_2_4",
+		"lon": 23.865346385620327,
+		"lat": 46.90360396461719,
+		"soil": "Regosol",
+		"size": 100,
+		"label": 0
+	},
+	{
+		"pointname": "SIC_20_5",
+		"lon": 23.87160479668812,
+		"lat": 46.90227936595355,
+		"soil": "Gleiosol",
+		"size": 100,
+		"label": 8
+	},
+	{
+		"pointname": "SIC_6_6",
+		"lon": 23.876414547293475,
+		"lat": 46.903487134489325,
+		"soil": "Faeoziom",
+		"size": 100,
+		"label": 3
+	},
+	{
+		"pointname": "SIC_22_7",
+		"lon": 23.87324906341624,
+		"lat": 46.90610954461968,
+		"soil": "Antrosol",
+		"size": 100,
+		"label": 10
+	},
+	{
+		"pointname": "SIC_22_8",
+		"lon": 23.865566052444542,
+		"lat": 46.90905989362457,
+		"soil": "Antrosol",
+		"size": 100,
+		"label": 10
+	},
+	{
+		"pointname": "SIC_15_9",
+		"lon": 23.863623250680288,
+		"lat": 46.91258762719619,
+		"soil": "Preluvosol",
+		"size": 100,
+		"label": 7
+	},
+	{
+		"pointname": "SIC_10_10",
+		"lon": 23.86965851633985,
+		"lat": 46.91180587115025,
+		"soil": "Faeoziom",
+		"size": 100,
+		"label": 5
+	},
+	{
+		"pointname": "SIC_22_11",
+		"lon": 23.873409913951804,
+		"lat": 46.91446406234692,
+		"soil": "Antrosol",
+		"size": 100,
+		"label": 10
+	},
+	{
+		"pointname": "SIC_23_12",
+		"lon": 23.8699264322538,
+		"lat": 46.91541209364786,
+		"soil": "Antrosol",
+		"size": 100,
+		"label": 10
+	},
+	{
+		"pointname": "SIC_2_13",
+		"lon": 23.8769343807943,
+		"lat": 46.91341007281508,
+		"soil": "Regosol",
+		"size": 100,
+		"label": 0
+	},
+	{
+		"pointname": "SIC_22_14",
+		"lon": 23.863030796079215,
+		"lat": 46.91591412648805,
+		"soil": "Antrosol",
+		"size": 100,
+		"label": 10
+	},
+	{
+		"pointname": "SIC_18_15",
+		"lon": 23.859910790781008,
+		"lat": 46.91798467647388,
+		"soil": "Preluvosol",
+		"size": 100,
+		"label": 7
+	},
+	{
+		"pointname": "SIC_6_16",
+		"lon": 23.870678077776617,
+		"lat": 46.917409519078944,
+		"soil": "Faeoziom",
+		"size": 100,
+		"label": 3
+	},
+	{
+		"pointname": "SIC_22_17",
+		"lon": 23.868806877506405,
+		"lat": 46.91910165091795,
+		"soil": "Antrosol",
+		"size": 100,
+		"label": 10
+	},
+	{
+		"pointname": "SIC_22_18",
+		"lon": 23.863700401298733,
+		"lat": 46.923889653544705,
+		"soil": "Antrosol",
+		"size": 100,
+		"label": 10
+	},
+	{
+		"pointname": "SIC_1_19",
+		"lon": 23.857563112610727,
+		"lat": 46.92269712715586,
+		"soil": "Regosol",
+		"size": 100,
+		"label": 0
+	},
+	{
+		"pointname": "SIC_8_20",
+		"lon": 23.87407932488038,
+		"lat": 46.924419553061,
+		"soil": "Faeoziom",
+		"size": 100,
+		"label": 4
+	},
+	{
+		"pointname": "SIC_19_21",
+		"lon": 23.873265038715566,
+		"lat": 46.92173066798631,
+		"soil": "Gleiosol",
+		"size": 100,
+		"label": 8
+	},
+	{
+		"pointname": "SIC_22_22",
+		"lon": 23.87891603474591,
+		"lat": 46.92501242544452,
+		"soil": "Antrosol",
+		"size": 100,
+		"label": 10
+	},
+	{
+		"pointname": "SIC_7_23",
+		"lon": 23.864630538053103,
+		"lat": 46.92766994049953,
+		"soil": "Faeoziom",
+		"size": 100,
+		"label": 3
+	},
+	{
+		"pointname": "SIC_16_24",
+		"lon": 23.871524168002747,
+		"lat": 46.92893704985576,
+		"soil": "Preluvosol",
+		"size": 100,
+		"label": 7
+	},
+	{
+		"pointname": "SIC_18_25",
+		"lon": 23.877261846271317,
+		"lat": 46.92989176181425,
+		"soil": "Preluvosol",
+		"size": 100,
+		"label": 7
+	},
+	{
+		"pointname": "SIC_5_26",
+		"lon": 23.879808774711197,
+		"lat": 46.928075097916235,
+		"soil": "Aluviosol",
+		"size": 100,
+		"label": 2
+	},
+	{
+		"pointname": "SIC_2_27",
+		"lon": 23.86505507804261,
+		"lat": 46.93229482463951,
+		"soil": "Regosol",
+		"size": 100,
+		"label": 0
+	},
+	{
+		"pointname": "SIC_19_28",
+		"lon": 23.872621118068068,
+		"lat": 46.93116568974648,
+		"soil": "Gleiosol",
+		"size": 100,
+		"label": 8
+	},
+	{
+		"pointname": "SIC_24_29",
+		"lon": 23.870962604682653,
+		"lat": 46.93803361171936,
+		"soil": "Antrosol",
+		"size": 100,
+		"label": 10
+	},
+	{
+		"pointname": "SIC_15_30",
+		"lon": 23.851803876480552,
+		"lat": 46.93565828781459,
+		"soil": "Preluvosol",
+		"size": 100,
+		"label": 7
+	},
+	{
+		"pointname": "SIC_2_31",
+		"lon": 23.853957405056104,
+		"lat": 46.93731528611346,
+		"soil": "Regosol",
+		"size": 100,
+		"label": 0
+	},
+	{
+		"pointname": "SIC_8_32",
+		"lon": 23.85965195798994,
+		"lat": 46.93828612428334,
+		"soil": "Faeoziom",
+		"size": 100,
+		"label": 4
+	},
+	{
+		"pointname": "SIC_16_33",
+		"lon": 23.838964014604624,
+		"lat": 46.93921380617755,
+		"soil": "Preluvosol",
+		"size": 100,
+		"label": 7
+	},
+	{
+		"pointname": "SIC_6_34",
+		"lon": 23.84640233942195,
+		"lat": 46.94073406139455,
+		"soil": "Faeoziom",
+		"size": 100,
+		"label": 3
+	},
+	{
+		"pointname": "SIC_8_35",
+		"lon": 23.85758219618532,
+		"lat": 46.94918055818178,
+		"soil": "Faeoziom",
+		"size": 100,
+		"label": 4
+	},
+	{
+		"pointname": "SIC_18_36",
+		"lon": 23.84244953509351,
+		"lat": 46.94702624841355,
+		"soil": "Preluvosol",
+		"size": 100,
+		"label": 7
+	},
+	{
+		"pointname": "SIC_24_37",
+		"lon": 23.849700436911903,
+		"lat": 46.94766043166081,
+		"soil": "Antrosol",
+		"size": 100,
+		"label": 10
+	},
+	{
+		"pointname": "SIC_9_38",
+		"lon": 23.862872085158852,
+		"lat": 46.945886085673976,
+		"soil": "Faeoziom",
+		"size": 100,
+		"label": 4
+	},
+	{
+		"pointname": "SIC_17_39",
+		"lon": 23.848988550422938,
+		"lat": 46.95230033596667,
+		"soil": "Preluvosol",
+		"size": 100,
+		"label": 7
+	},
+	{
+		"pointname": "SIC_2_40",
+		"lon": 23.85290555666015,
+		"lat": 46.95316578627984,
+		"soil": "Regosol",
+		"size": 100,
+		"label": 0
+	},
+	{
+		"pointname": "SIC_24_41",
+		"lon": 23.84369232524312,
+		"lat": 46.95720587174054,
+		"soil": "Antrosol",
+		"size": 100,
+		"label": 10
+	},
+	{
+		"pointname": "SIC_1_42",
+		"lon": 23.85574343784574,
+		"lat": 46.95692129153832,
+		"soil": "Regosol",
+		"size": 100,
+		"label": 0
+	},
+	{
+		"pointname": "SIC_5_43",
+		"lon": 23.861073176602943,
+		"lat": 46.953202695501545,
+		"soil": "Aluviosol",
+		"size": 100,
+		"label": 2
+	},
+	{
+		"pointname": "SIC_6_44",
+		"lon": 23.864196122299123,
+		"lat": 46.95454302409732,
+		"soil": "Faeoziom",
+		"size": 100,
+		"label": 3
+	},
+	{
+		"pointname": "SIC_24_45",
+		"lon": 23.85541247383845,
+		"lat": 46.96002021939043,
+		"soil": "Antrosol",
+		"size": 100,
+		"label": 10
+	},
+	{
+		"pointname": "SIC_23_46",
+		"lon": 23.85878888467535,
+		"lat": 46.95974884851361,
+		"soil": "Antrosol",
+		"size": 100,
+		"label": 10
+	},
+	{
+		"pointname": "SIC_6_47",
+		"lon": 23.853133081221404,
+		"lat": 46.96182741205311,
+		"soil": "Faeoziom",
+		"size": 100,
+		"label": 3
+	},
+	{
+		"pointname": "SIC_1_48",
+		"lon": 23.859452741370966,
+		"lat": 46.96249841752385,
+		"soil": "Regosol",
+		"size": 100,
+		"label": 0
+	},
+	{
+		"pointname": "SIC_2_49",
+		"lon": 23.861509964195378,
+		"lat": 46.96147917980832,
+		"soil": "Regosol",
+		"size": 100,
+		"label": 0
+	},
+	{
+		"pointname": "SIC_24_50",
+		"lon": 23.863471126091408,
+		"lat": 46.95875708899092,
+		"soil": "Antrosol",
+		"size": 100,
+		"label": 10
+	},
+	{
+		"pointname": "SIC_2_51",
+		"lon": 23.865959078586343,
+		"lat": 46.960147322582316,
+		"soil": "Regosol",
+		"size": 100,
+		"label": 0
+	},
+	{
+		"pointname": "SIC_22_52",
+		"lon": 23.8637921495729,
+		"lat": 46.96197069202083,
+		"soil": "Antrosol",
+		"size": 100,
+		"label": 10
+	},
+	{
+		"pointname": "SIC_9_53",
+		"lon": 23.870839404333,
+		"lat": 46.95912072097872,
+		"soil": "Faeoziom",
+		"size": 100,
+		"label": 4
+	},
+	{
+		"pointname": "SIC_24_54",
+		"lon": 23.87618975536274,
+		"lat": 46.9602073703162,
+		"soil": "Antrosol",
+		"size": 100,
+		"label": 10
+	},
+	{
+		"pointname": "SIC_7_55",
+		"lon": 23.874713031965893,
+		"lat": 46.962768277127225,
+		"soil": "Faeoziom",
+		"size": 100,
+		"label": 3
+    },
+	{
+		"pointname": "SIC_23_56",
+		"lon": 23.88013710426973,
+		"lat": 46.96044284657677,
+		"soil": "Antrosol",
+		"size": 100,
+		"label": 10
+    },
+	{
+		"pointname": "SIC_9_57",
+		"lon": 23.870627888428427,
+		"lat": 46.96522167436808,
+		"soil": "Faeoziom",
+		"size": 100,
+		"label": 4
+    },
+	{
+		"pointname": "SIC_24_58",
+		"lon": 23.864360426923756,
+		"lat": 46.966106506300264,
+		"soil": "Antrosol",
+		"size": 100,
+		"label": 10
+    },
+	{
+		"pointname": "SIC_1_59",
+		"lon": 23.862300527966653,
+		"lat": 46.96731935873831,
+		"soil": "Regosol",
+		"size": 100,
+		"label": 0
+    },
+	{
+		"pointname": "SIC_2_60",
+		"lon": 23.86839485718004,
+		"lat": 46.96755127563455,
+		"soil": "Regosol",
+		"size": 100,
+		"label": 0
+    },
+	{
+		"pointname": "SIC_19_61",
+		"lon": 23.8774035318856,
+		"lat": 46.968056255737025,
+		"soil": "Gleiosol",
+		"size": 100,
+		"label": 8
+    },
+	{
+		"pointname": "SIC_8_62",
+		"lon": 23.881834223221638,
+		"lat": 46.96561286283426,
+		"soil": "Faeoziom",
+		"size": 100,
+		"label": 4
+    },
+	{
+		"pointname": "SIC_2_63",
+		"lon": 23.88955147448193,
+		"lat": 46.96966630610737,
+		"soil": "Regosol",
+		"size": 100,
+		"label": 0
+    },
+	{
+		"pointname": "SIC_2_64",
+		"lon": 23.8951829188481,
+		"lat": 46.963255927712225,
+		"soil": "Regosol",
+		"size": 100,
+		"label": 0
+    },
+	{
+		"pointname": "SIC_7_65",
+		"lon": 23.89108199434561,
+		"lat": 46.96332873624698,
+		"soil": "Faeoziom",
+		"size": 100,
+		"label": 3
+    },
+	{
+		"pointname": "SIC_8_66",
+		"lon": 23.88450985805121,
+		"lat": 46.96069984251287,
+		"soil": "Faeoziom",
+		"size": 100,
+		"label": 4
+    },
+	{
+		"pointname": "SIC_7_67",
+		"lon": 23.888192366711692,
+		"lat": 46.96132461653369,
+		"soil": "Faeoziom",
+		"size": 100,
+		"label": 3
+    },
+	{
+		"pointname": "SIC_2_68",
+		"lon": 23.88374547075592,
+		"lat": 46.95770422242535,
+		"soil": "Regosol",
+		"size": 100,
+		"label": 0
+    },
+	{
+		"pointname": "SIC_20_69",
+		"lon": 23.87469773035548,
+		"lat": 46.9550904973766,
+		"soil": "Gleiosol",
+		"size": 100,
+		"label": 8
+    },
+	{
+		"pointname": "SIC_8_70",
+		"lon": 23.87200616279585,
+		"lat": 46.95244876393039,
+		"soil": "Faeoziom",
+		"size": 100,
+		"label": 4
+    },
+	{
+		"pointname": "SIC_23_71",
+		"lon": 23.873653367543827,
+		"lat": 46.94943826342629,
+		"soil": "Antrosol",
+		"size": 100,
+		"label": 10
+    },
+	{
+		"pointname": "SIC_6_72",
+		"lon": 23.878816926126074,
+		"lat": 46.95086926055254,
+		"soil": "Faeoziom",
+		"size": 100,
+		"label": 3
+    },
+	{
+		"pointname": "SIC_16_73",
+		"lon": 23.883859656690394,
+		"lat": 46.95106372790431,
+		"soil": "Preluvosol",
+		"size": 100,
+		"label": 7
+    },
+	{
+		"pointname": "SIC_18_74",
+		"lon": 23.888359439334078,
+		"lat": 46.955295459983745,
+		"soil": "Preluvosol",
+		"size": 100,
+		"label": 7
+    },
+	{
+		"pointname": "SIC_17_75",
+		"lon": 23.887499990961164,
+		"lat": 46.951758276362455,
+		"soil": "Preluvosol",
+		"size": 100,
+		"label": 7
+    },
+	{
+		"pointname": "SIC_8_76",
+		"lon": 23.869739799914218,
+		"lat": 46.9466779618723,
+		"soil": "Faeoziom",
+		"size": 100,
+		"label": 4
+    },
+	{
+		"pointname": "SIC_23_77",
+		"lon": 23.868618797141313,
+		"lat": 46.94412771279514,
+		"soil": "Antrosol",
+		"size": 100,
+		"label": 10
+    },
+	{
+		"pointname": "SIC_9_78",
+		"lon": 23.865818202598298,
+		"lat": 46.94263712543858,
+		"soil": "Faeoziom",
+		"size": 100,
+		"label": 4
+    },
+	{
+		"pointname": "SIC_23_79",
+		"lon": 23.86302609292689,
+		"lat": 46.94271097491628,
+		"soil": "Antrosol",
+		"size": 100,
+		"label": 10
+    },
+	{
+		"pointname": "SIC_23_80",
+		"lon": 23.86348954995771,
+		"lat": 46.94017319752453,
+		"soil": "Antrosol",
+		"size": 100,
+		"label": 10
+    },
+	{
+		"pointname": "SIC_22_81",
+		"lon": 23.869718915419373,
+		"lat": 46.94127708437662,
+		"soil": "Antrosol",
+		"size": 100,
+		"label": 10
+    },
+	{
+		"pointname": "SIC_2_82",
+		"lon": 23.87425590529245,
+		"lat": 46.940679281474644,
+		"soil": "Regosol",
+		"size": 100,
+		"label": 0
+    },
+	{
+		"pointname": "SIC_23_83",
+		"lon": 23.876653007757213,
+		"lat": 46.94316974036383,
+		"soil": "Antrosol",
+		"size": 100,
+		"label": 10
+    },
+	{
+		"pointname": "SIC_9_84",
+		"lon": 23.874702053958444,
+		"lat": 46.94603645364475,
+		"soil": "Faeoziom",
+		"size": 100,
+		"label": 4
+    },
+	{
+		"pointname": "SIC_23_85",
+		"lon": 23.882805124229485,
+		"lat": 46.94437910475068,
+		"soil": "Antrosol",
+		"size": 100,
+		"label": 10
+    },
+	{
+		"pointname": "SIC_2_86",
+		"lon": 23.88821910460911,
+		"lat": 46.94483792584839,
+		"soil": "Regosol",
+		"size": 100,
+		"label": 0
+    },
+	{
+		"pointname": "SIC_1_87",
+		"lon": 23.89418290221147,
+		"lat": 46.956329349819924,
+		"soil": "Regosol",
+		"size": 100,
+		"label": 0
+    },
+	{
+		"pointname": "SIC_22_88",
+		"lon": 23.900134953398148,
+		"lat": 46.95691542650229,
+		"soil": "Antrosol",
+		"size": 100,
+		"label": 10
+    },
+	{
+		"pointname": "SIC_5_89",
+		"lon": 23.896837466694503,
+		"lat": 46.9533301751155,
+		"soil": "Aluviosol",
+		"size": 100,
+		"label": 2
+    },
+	{
+		"pointname": "SIC_4_90",
+		"lon": 23.897289315731832,
+		"lat": 46.95439718512338,
+		"soil": "Aluviosol",
+		"size": 100,
+		"label": 1
+    },
+	{
+		"pointname": "SIC_18_91",
+		"lon": 23.895950566137845,
+		"lat": 46.951018223109685,
+		"soil": "Preluvosol",
+		"size": 100,
+		"label": 7
+    },
+	{
+		"pointname": "SIC_5_92",
+		"lon": 23.90056112631523,
+		"lat": 46.951611221408285,
+		"soil": "Aluviosol",
+		"size": 100,
+		"label": 2
+    },
+	{
+		"pointname": "SIC_12_93",
+		"lon": 23.89974960389713,
+		"lat": 46.94850088596942,
+		"soil": "Eutricambosol",
+		"size": 100,
+		"label": 6
+    },
+	{
+		"pointname": "SIC_1_94",
+		"lon": 23.892913244975908,
+		"lat": 46.948118788822484,
+		"soil": "Regosol",
+		"size": 100,
+		"label": 0
+    },
+	{
+		"pointname": "SIC_15_95",
+		"lon": 23.890081066596657,
+		"lat": 46.942779423151734,
+		"soil": "Preluvosol",
+		"size": 100,
+		"label": 7
+    },
+	{
+		"pointname": "SIC_9_96",
+		"lon": 23.88879903814538,
+		"lat": 46.93953710181145,
+		"soil": "Faeoziom",
+		"size": 100,
+		"label": 4
+    },
+	{
+		"pointname": "SIC_22_97",
+		"lon": 23.88536591843928,
+		"lat": 46.938730798256074,
+		"soil": "Antrosol",
+		"size": 100,
+		"label": 10
+    },
+	{
+		"pointname": "SIC_9_98",
+		"lon": 23.894340315064134,
+		"lat": 46.94453267977474,
+		"soil": "Faeoziom",
+		"size": 100,
+		"label": 4
+    },
+	{
+		"pointname": "SIC_22_99",
+		"lon": 23.900269682664327,
+		"lat": 46.946313533654205,
+		"soil": "Antrosol",
+		"size": 100,
+		"label": 10
+    },
+	{
+		"pointname": "SIC_1_100",
+		"lon": 23.904024142932414,
+		"lat": 46.94828293822695,
+		"soil": "Regosol",
+		"size": 100,
+		"label": 0
+    },
+	{
+		"pointname": "SIC_11_101",
+		"lon": 23.907076428213745,
+		"lat": 46.94772871154814,
+		"soil": "Eutricambosol",
+		"size": 100,
+		"label": 6
+    },
+	{
+		"pointname": "SIC_5_102",
+		"lon": 23.903246403798892,
+		"lat": 46.94390695710592,
+		"soil": "Aluviosol",
+		"size": 100,
+		"label": 2
+    },
+	{
+		"pointname": "SIC_16_103",
+		"lon": 23.904155386334853,
+		"lat": 46.942159757228126,
+		"soil": "Preluvosol",
+		"size": 100,
+		"label": 7
+    },
+	{
+		"pointname": "SIC_23_104",
+		"lon": 23.90639346638894,
+		"lat": 46.944271558613764,
+		"soil": "Antrosol",
+		"size": 100,
+		"label": 10
+    },
+	{
+		"pointname": "SIC_22_105",
+		"lon": 23.907260877091584,
+		"lat": 46.942499431674094,
+		"soil": "Antrosol",
+		"size": 100,
+		"label": 10
+    },
+	{
+		"pointname": "SIC_15_106",
+		"lon": 23.910597258901653,
+		"lat": 46.94160385903538,
+		"soil": "Preluvosol",
+		"size": 100,
+		"label": 7
+    },
+	{
+		"pointname": "SIC_17_107",
+		"lon": 23.90973991716516,
+		"lat": 46.945921025528605,
+		"soil": "Preluvosol",
+		"size": 100,
+		"label": 7
+    },
+	{
+		"pointname": "SIC_16_108",
+		"lon": 23.915477601933436,
+		"lat": 46.947036005882126,
+		"soil": "Preluvosol",
+		"size": 100,
+		"label": 7
+    },
+	{
+		"pointname": "SIC_15_109",
+		"lon": 23.915670252474868,
+		"lat": 46.95000177992293,
+		"soil": "Preluvosol",
+		"size": 100,
+		"label": 7
+    },
+	{
+		"pointname": "SIC_1_110",
+		"lon": 23.91884917251709,
+		"lat": 46.95045777786265,
+		"soil": "Regosol",
+		"size": 100,
+		"label": 0
+    },
+	{
+		"pointname": "SIC_22_111",
+		"lon": 23.919521158734376,
+		"lat": 46.946731045161954,
+		"soil": "Antrosol",
+		"size": 100,
+		"label": 10
+    },
+	{
+		"pointname": "SIC_17_112",
+		"lon": 23.92364809472874,
+		"lat": 46.947516284482674,
+		"soil": "Preluvosol",
+		"size": 100,
+		"label": 7
+    },
+	{
+		"pointname": "SIC_1_113",
+		"lon": 23.926415846360957,
+		"lat": 46.94717813814597,
+		"soil": "Regosol",
+		"size": 100,
+		"label": 0
+    },
+	{
+		"pointname": "SIC_16_114",
+		"lon": 23.929431463083915,
+		"lat": 46.94659811377085,
+		"soil": "Preluvosol",
+		"size": 100,
+		"label": 7
+    },
+	{
+		"pointname": "SIC_17_115",
+		"lon": 23.929352487032094,
+		"lat": 46.94954718715019,
+		"soil": "Preluvosol",
+		"size": 100,
+		"label": 7
+    },
+	{
+		"pointname": "SIC_22_116",
+		"lon": 23.93224722753621,
+		"lat": 46.950314113164666,
+		"soil": "Antrosol",
+		"size": 100,
+		"label": 10
+    },
+	{
+		"pointname": "SIC_1_117",
+		"lon": 23.93357093281054,
+		"lat": 46.9485963354102,
+		"soil": "Regosol",
+		"size": 100,
+		"label": 0
+    },
+	{
+		"pointname": "SIC_24_118",
+		"lon": 23.93565106189835,
+		"lat": 46.944015532252195,
+		"soil": "Antrosol",
+		"size": 100,
+		"label": 10
+    },
+	{
+		"pointname": "SIC_2_119",
+		"lon": 23.939739525082807,
+		"lat": 46.94521800011131,
+		"soil": "Regosol",
+		"size": 100,
+		"label": 0
+    },
+	{
+		"pointname": "SIC_22_120",
+		"lon": 23.941784192558057,
+		"lat": 46.942977085737795,
+		"soil": "Antrosol",
+		"size": 100,
+		"label": 10
+    },
+	{
+		"pointname": "SIC_20_121",
+		"lon": 23.937207544801375,
+		"lat": 46.94169155360342,
+		"soil": "Gleiosol",
+		"size": 100,
+		"label": 8
+    },
+	{
+		"pointname": "SIC_15_122",
+		"lon": 23.937608797112023,
+		"lat": 46.93820134221704,
+		"soil": "Preluvosol",
+		"size": 100,
+		"label": 7
+    },
+	{
+		"pointname": "SIC_1_123",
+		"lon": 23.941821471097917,
+		"lat": 46.93672425924936,
+		"soil": "Regosol",
+		"size": 100,
+		"label": 0
+    },
+	{
+		"pointname": "SIC_22_124",
+		"lon": 23.945511975426935,
+		"lat": 46.93689099675268,
+		"soil": "Antrosol",
+		"size": 100,
+		"label": 10
+    },
+	{
+		"pointname": "SIC_16_125",
+		"lon": 23.93275253981002,
+		"lat": 46.939907084890194,
+		"soil": "Preluvosol",
+		"size": 100,
+		"label": 7
+    },
+	{
+		"pointname": "SIC_8_126",
+		"lon": 23.92923481753553,
+		"lat": 46.94174172460441,
+		"soil": "Faeoziom",
+		"size": 100,
+		"label": 4
+    },
+	{
+		"pointname": "SIC_21_127",
+		"lon": 23.925196359197184,
+		"lat": 46.94247965586632,
+		"soil": "Solonet",
+		"size": 100,
+		"label": 9
+    },
+	{
+		"pointname": "SIC_18_128",
+		"lon": 23.921646379850237,
+		"lat": 46.942833042952486,
+		"soil": "Preluvosol",
+		"size": 100,
+		"label": 7
+    },
+	{
+		"pointname": "SIC_22_129",
+		"lon": 23.915872532552882,
+		"lat": 46.941439060676515,
+		"soil": "Antrosol",
+		"size": 100,
+		"label": 10
+    },
+	{
+		"pointname": "SIC_16_130",
+		"lon": 23.925622516853913,
+		"lat": 46.93792769943073,
+		"soil": "Preluvosol",
+		"size": 100,
+		"label": 7
+    },
+	{
+		"pointname": "SIC_20_131",
+		"lon": 23.907712712772916,
+		"lat": 46.93864796091711,
+		"soil": "Gleiosol",
+		"size": 100,
+		"label": 8
+    },
+	{
+		"pointname": "SIC_2_132",
+		"lon": 23.912316996566904,
+		"lat": 46.93675082140436,
+		"soil": "Regosol",
+		"size": 100,
+		"label": 0
+    },
+	{
+		"pointname": "SIC_17_133",
+		"lon": 23.914035115098837,
+		"lat": 46.938995793367496,
+		"soil": "Preluvosol",
+		"size": 100,
+		"label": 7
+    },
+	{
+		"pointname": "SIC_16_134",
+		"lon": 23.916007572320776,
+		"lat": 46.93654103294929,
+		"soil": "Preluvosol",
+		"size": 100,
+		"label": 7
+    },
+	{
+		"pointname": "SIC_17_135",
+		"lon": 23.91169933174487,
+		"lat": 46.93379356263611,
+		"soil": "Preluvosol",
+		"size": 100,
+		"label": 7
+    },
+	{
+		"pointname": "SIC_5_136",
+		"lon": 23.91693297587245,
+		"lat": 46.93474506654104,
+		"soil": "Aluviosol",
+		"size": 100,
+		"label": 2
+    },
+	{
+		"pointname": "SIC_24_137",
+		"lon": 23.924670690807467,
+		"lat": 46.93296809205941,
+		"soil": "Antrosol",
+		"size": 100,
+		"label": 10
+    },
+	{
+		"pointname": "SIC_20_138",
+		"lon": 23.92918414544905,
+		"lat": 46.93140979062716,
+		"soil": "Gleiosol",
+		"size": 100,
+		"label": 8
+    },
+	{
+		"pointname": "SIC_17_139",
+		"lon": 23.92472044377184,
+		"lat": 46.92963614272995,
+		"soil": "Preluvosol",
+		"size": 100,
+		"label": 7
+    },
+	{
+		"pointname": "SIC_15_140",
+		"lon": 23.92965174789989,
+		"lat": 46.92829910363159,
+		"soil": "Preluvosol",
+		"size": 100,
+		"label": 7
+    },
+	{
+		"pointname": "SIC_21_141",
+		"lon": 23.939369350577284,
+		"lat": 46.928634469652394,
+		"soil": "Solonet",
+		"size": 100,
+		"label": 9
+    },
+	{
+		"pointname": "SIC_16_142",
+		"lon": 23.902838795614766,
+		"lat": 46.92942602398867,
+		"soil": "Preluvosol",
+		"size": 100,
+		"label": 7
+    },
+	{
+		"pointname": "SIC_15_143",
+		"lon": 23.905178334937897,
+		"lat": 46.92954433478829,
+		"soil": "Preluvosol",
+		"size": 100,
+		"label": 7
+    },
+	{
+		"pointname": "SIC_1_144",
+		"lon": 23.906852255291525,
+		"lat": 46.930761076105824,
+		"soil": "Regosol",
+		"size": 100,
+		"label": 0
+    },
+	{
+		"pointname": "SIC_23_145",
+		"lon": 23.90833409783774,
+		"lat": 46.92920288000636,
+		"soil": "Antrosol",
+		"size": 100,
+		"label": 10
+    },
+	{
+		"pointname": "SIC_17_146",
+		"lon": 23.912835386086254,
+		"lat": 46.926743078946515,
+		"soil": "Preluvosol",
+		"size": 100,
+		"label": 7
+    },
+	{
+		"pointname": "SIC_14_147",
+		"lon": 23.917352122088253,
+		"lat": 46.92959895089106,
+		"soil": "Eutricambosol",
+		"size": 100,
+		"label": 6
+    },
+	{
+		"pointname": "SIC_18_148",
+		"lon": 23.919797377325963,
+		"lat": 46.92579232487634,
+		"soil": "Preluvosol",
+		"size": 100,
+		"label": 7
+    },
+	{
+		"pointname": "SIC_22_149",
+		"lon": 23.924782215152177,
+		"lat": 46.92597774477005,
+		"soil": "Antrosol",
+		"size": 100,
+		"label": 10
+    },
+	{
+		"pointname": "SIC_16_150",
+		"lon": 23.925155718204277,
+		"lat": 46.92418881827953,
+		"soil": "Preluvosol",
+		"size": 100,
+		"label": 7
+    },
+	{
+		"pointname": "SIC_10_151",
+		"lon": 23.93160296228891,
+		"lat": 46.92450570168856,
+		"soil": "Faeoziom",
+		"size": 100,
+		"label": 5
+    },
+	{
+		"pointname": "SIC_23_152",
+		"lon": 23.92181015190741,
+		"lat": 46.922227057108984,
+		"soil": "Antrosol",
+		"size": 100,
+		"label": 10
+    },
+	{
+		"pointname": "SIC_15_153",
+		"lon": 23.916002784728914,
+		"lat": 46.924373002820715,
+		"soil": "Preluvosol",
+		"size": 100,
+		"label": 7
+    },
+	{
+		"pointname": "SIC_22_154",
+		"lon": 23.91176607803528,
+		"lat": 46.92395032502964,
+		"soil": "Antrosol",
+		"size": 100,
+		"label": 10
+    },
+	{
+		"pointname": "SIC_16_155",
+		"lon": 23.907687431799772,
+		"lat": 46.92312160537904,
+		"soil": "Preluvosol",
+		"size": 100,
+		"label": 7
+    },
+	{
+		"pointname": "SIC_16_156",
+		"lon": 23.903052678785713,
+		"lat": 46.92347442106035,
+		"soil": "Preluvosol",
+		"size": 100,
+		"label": 7
+    },
+	{
+		"pointname": "SIC_22_157",
+		"lon": 23.905503622295072,
+		"lat": 46.92076992780295,
+		"soil": "Antrosol",
+		"size": 100,
+		"label": 10
+    },
+	{
+		"pointname": "SIC_2_158",
+		"lon": 23.908449845156913,
+		"lat": 46.918836006018466,
+		"soil": "Regosol",
+		"size": 100,
+		"label": 0
+    },
+	{
+		"pointname": "SIC_21_159",
+		"lon": 23.915105281706264,
+		"lat": 46.919577828800584,
+		"soil": "Solonet",
+		"size": 100,
+		"label": 9
+    },
+	{
+		"pointname": "SIC_1_160",
+		"lon": 23.921947648548777,
+		"lat": 46.91944063364167,
+		"soil": "Regosol",
+		"size": 100,
+		"label": 0
+    },
+	{
+		"pointname": "SIC_16_161",
+		"lon": 23.93588900148299,
+		"lat": 46.9216287668678,
+		"soil": "Preluvosol",
+		"size": 100,
+		"label": 7
+    },
+	{
+		"pointname": "SIC_5_162",
+		"lon": 23.933794518183703,
+		"lat": 46.920604131464586,
+		"soil": "Aluviosol",
+		"size": 100,
+		"label": 2
+    },
+	{
+		"pointname": "SIC_2_163",
+		"lon": 23.93570659113367,
+		"lat": 46.91701188959908,
+		"soil": "Regosol",
+		"size": 100,
+		"label": 0
+    },
+	{
+		"pointname": "SIC_22_164",
+		"lon": 23.935165842026624,
+		"lat": 46.91442055363791,
+		"soil": "Antrosol",
+		"size": 100,
+		"label": 10
+    },
+	{
+		"pointname": "SIC_17_165",
+		"lon": 23.9335794233936,
+		"lat": 46.91371519897427,
+		"soil": "Preluvosol",
+		"size": 100,
+		"label": 7
+    },
+	{
+		"pointname": "SIC_21_166",
+		"lon": 23.93200897451531,
+		"lat": 46.915491286356996,
+		"soil": "Solonet",
+		"size": 100,
+		"label": 9
+    },
+	{
+		"pointname": "SIC_10_167",
+		"lon": 23.92854125266714,
+		"lat": 46.917086389812454,
+		"soil": "Faeoziom",
+		"size": 100,
+		"label": 5
+    },
+	{
+		"pointname": "SIC_16_168",
+		"lon": 23.91945710918213,
+		"lat": 46.91606754760656,
+		"soil": "Preluvosol",
+		"size": 100,
+		"label": 7
+    },
+	{
+		"pointname": "SIC_21_169",
+		"lon": 23.908012026537367,
+		"lat": 46.912073619413206,
+		"soil": "Solonet",
+		"size": 100,
+		"label": 9
+    },
+	{
+		"pointname": "SIC_23_170",
+		"lon": 23.90403631144476,
+		"lat": 46.913193743444964,
+		"soil": "Antrosol",
+		"size": 100,
+		"label": 10
+    },
+	{
+		"pointname": "SIC_8_171",
+		"lon": 23.901418299113008,
+		"lat": 46.910482838276664,
+		"soil": "Faeoziom",
+		"size": 100,
+		"label": 4
+    },
+	{
+		"pointname": "SIC_20_172",
+		"lon": 23.900998296293906,
+		"lat": 46.90704905164745,
+		"soil": "Gleiosol",
+		"size": 100,
+		"label": 8
+    },
+	{
+		"pointname": "SIC_21_173",
+		"lon": 23.902540381989084,
+		"lat": 46.90467241422593,
+		"soil": "Solonet",
+		"size": 100,
+		"label": 9
+    },
+	{
+		"pointname": "SIC_8_174",
+		"lon": 23.909490696263024,
+		"lat": 46.9083737063188,
+		"soil": "Faeoziom",
+		"size": 100,
+		"label": 4
+    },
+	{
+		"pointname": "SIC_17_175",
+		"lon": 23.912820009997247,
+		"lat": 46.90735366576871,
+		"soil": "Preluvosol",
+		"size": 100,
+		"label": 7
+    },
+	{
+		"pointname": "SIC_6_176",
+		"lon": 23.916231863773817,
+		"lat": 46.906694514412436,
+		"soil": "Faeoziom",
+		"size": 100,
+		"label": 3
+    },
+	{
+		"pointname": "SIC_13_177",
+		"lon": 23.913394949077677,
+		"lat": 46.90344164133086,
+		"soil": "Eutricambosol",
+		"size": 100,
+		"label": 6
+    },
+	{
+		"pointname": "SIC_20_178",
+		"lon": 23.917320910425175,
+		"lat": 46.91045132526261,
+		"soil": "Gleiosol",
+		"size": 100,
+		"label": 8
+    },
+	{
+		"pointname": "SIC_5_179",
+		"lon": 23.920196342097373,
+		"lat": 46.91119919927411,
+		"soil": "Aluviosol",
+		"size": 100,
+		"label": 2
+    },
+	{
+		"pointname": "SIC_1_180",
+		"lon": 23.925815519001965,
+		"lat": 46.90955888086344,
+		"soil": "Regosol",
+		"size": 100,
+		"label": 0
+    },
+	{
+		"pointname": "SIC_22_181",
+		"lon": 23.92984820246533,
+		"lat": 46.90699046627509,
+		"soil": "Antrosol",
+		"size": 100,
+		"label": 10
+    },
+	{
+		"pointname": "SIC_3_182",
+		"lon": 23.93647645951957,
+		"lat": 46.90453923136374,
+		"soil": "Aluviosol",
+		"size": 100,
+		"label": 1
+    },
+	{
+		"pointname": "SIC_16_183",
+		"lon": 23.924720947687042,
+		"lat": 46.904802791830065,
+		"soil": "Preluvosol",
+		"size": 100,
+		"label": 7
+    },
+	{
+		"pointname": "SIC_13_184",
+		"lon": 23.918177424774452,
+		"lat": 46.90839835329837,
+		"soil": "Eutricambosol",
+		"size": 100,
+		"label": 6
+    },
+	{
+		"pointname": "SIC_14_185",
+		"lon": 23.92053155191395,
+		"lat": 46.90326219662293,
+		"soil": "Eutricambosol",
+		"size": 100,
+		"label": 6
+    },
+	{
+		"pointname": "SIC_13_186",
+		"lon": 23.926235300681515,
+		"lat": 46.90251576271737,
+		"soil": "Eutricambosol",
+		"size": 100,
+		"label": 6
+    },
+	{
+		"pointname": "SIC_15_187",
+		"lon": 23.916582781632844,
+		"lat": 46.90167798919106,
+		"soil": "Preluvosol",
+		"size": 100,
+		"label": 7
+    },
+	{
+		"pointname": "SIC_24_188",
+		"lon": 23.911726166075955,
+		"lat": 46.9004516401144,
+		"soil": "Antrosol",
+		"size": 100,
+		"label": 10
+    },
+	{
+		"pointname": "SIC_22_189",
+		"lon": 23.922711553088984,
+		"lat": 46.89460537094959,
+		"soil": "Antrosol",
+		"size": 100,
+		"label": 10
+    },
+	{
+		"pointname": "SIC_5_190",
+		"lon": 23.912332697491514,
+		"lat": 46.897167961097296,
+		"soil": "Aluviosol",
+		"size": 100,
+		"label": 2
+    },
+	{
+		"pointname": "SIC_19_191",
+		"lon": 23.906029668077245,
+		"lat": 46.899611242503795,
+		"soil": "Gleiosol",
+		"size": 100,
+		"label": 8
+    },
+	{
+		"pointname": "SIC_11_192",
+		"lon": 23.897742257396434,
+		"lat": 46.90196931916728,
+		"soil": "Eutricambosol",
+		"size": 100,
+		"label": 6
+    },
+	{
+		"pointname": "SIC_17_193",
+		"lon": 23.900464359856795,
+		"lat": 46.90069958807868,
+		"soil": "Preluvosol",
+		"size": 100,
+		"label": 7
+    },
+	{
+		"pointname": "SIC_2_194",
+		"lon": 23.90192616781335,
+		"lat": 46.89877897839867,
+		"soil": "Regosol",
+		"size": 100,
+		"label": 0
+    },
+	{
+		"pointname": "SIC_16_195",
+		"lon": 23.90328347721391,
+		"lat": 46.89677480268355,
+		"soil": "Preluvosol",
+		"size": 100,
+		"label": 7
+    },
+	{
+		"pointname": "SIC_17_196",
+		"lon": 23.90403130091837,
+		"lat": 46.89486599135611,
+		"soil": "Preluvosol",
+		"size": 100,
+		"label": 7
+    },
+	{
+		"pointname": "SIC_11_197",
+		"lon": 23.906823379905955,
+		"lat": 46.89428206296128,
+		"soil": "Eutricambosol",
+		"size": 100,
+		"label": 6
+    },
+	{
+		"pointname": "SIC_4_198",
+		"lon": 23.91313822656802,
+		"lat": 46.893815956392416,
+		"soil": "Aluviosol",
+		"size": 100,
+		"label": 1
+    },
+	{
+		"pointname": "SIC_17_199",
+		"lon": 23.92023592095194,
+		"lat": 46.888898910135026,
+		"soil": "Preluvosol",
+		"size": 100,
+		"label": 7
+    },
+	{
+		"pointname": "SIC_19_200",
+		"lon": 23.924462416748945,
+		"lat": 46.88846444838944,
+		"soil": "Gleiosol",
+		"size": 100,
+		"label": 8
+    },
+	{
+		"pointname": "SIC_2_201",
+		"lon": 23.92831123604875,
+		"lat": 46.89111445431192,
+		"soil": "Regosol",
+		"size": 100,
+		"label": 0
+    },
+	{
+		"pointname": "SIC_2_202",
+		"lon": 23.939799799936832,
+		"lat": 46.90674349926417,
+		"soil": "Regosol",
+		"size": 100,
+		"label": 0
+    },
+	{
+		"pointname": "SIC_2_203",
+		"lon": 23.9456566142922,
+		"lat": 46.905936406960194,
+		"soil": "Regosol",
+		"size": 100,
+		"label": 0
+    },
+	{
+		"pointname": "SIC_2_204",
+		"lon": 23.947734832877828,
+		"lat": 46.917647431753124,
+		"soil": "Regosol",
+		"size": 100,
+		"label": 0
+    },
+	{
+		"pointname": "SIC_5_205",
+		"lon": 23.94768138336469,
+		"lat": 46.9331388082083,
+		"soil": "Aluviosol",
+		"size": 100,
+		"label": 2
+    },
+	{
+		"pointname": "SIC_15_206",
+		"lon": 23.9414597620031,
+		"lat": 46.93392166093963,
+		"soil": "Preluvosol",
+		"size": 100,
+		"label": 7
+    },
+	{
+		"pointname": "SIC_9_207",
+		"lon": 23.887065599218896,
+		"lat": 46.93447014707186,
+		"soil": "Faeoziom",
+		"size": 100,
+		"label": 4
+    },
+	{
+		"pointname": "SIC_2_208",
+		"lon": 23.88496973738215,
+		"lat": 46.93206051764122,
+		"soil": "Regosol",
+		"size": 100,
+		"label": 0
+    },
+	{
+		"pointname": "SIC_23_209",
+		"lon": 23.88016084020762,
+		"lat": 46.93387187010137,
+		"soil": "Antrosol",
+		"size": 100,
+		"label": 10
+    },
+	{
+		"pointname": "SIC_13_210",
+		"lon": 23.878245209062534,
+		"lat": 46.93632941666655,
+		"soil": "Eutricambosol",
+		"size": 100,
+		"label": 6
+    },
+	{
+		"pointname": "SIC_9_211",
+		"lon": 23.893950378522963,
+		"lat": 46.925653937012726,
+		"soil": "Faeoziom",
+		"size": 100,
+		"label": 4
+    },
+	{
+		"pointname": "SIC_22_212",
+		"lon": 23.891783400870807,
+		"lat": 46.9255840802079,
+		"soil": "Antrosol",
+		"size": 100,
+		"label": 10
+    },
+	{
+		"pointname": "SIC_16_213",
+		"lon": 23.88831169790924,
+		"lat": 46.92645570306735,
+		"soil": "Preluvosol",
+		"size": 100,
+		"label": 7
+    },
+	{
+		"pointname": "SIC_8_214",
+		"lon": 23.886447522044282,
+		"lat": 46.92229397520947,
+		"soil": "Faeoziom",
+		"size": 100,
+		"label": 4
+    },
+	{
+		"pointname": "SIC_22_215",
+		"lon": 23.893115499761105,
+		"lat": 46.9207364188793,
+		"soil": "Antrosol",
+		"size": 100,
+		"label": 10
+    },
+	{
+		"pointname": "SIC_23_216",
+		"lon": 23.887454741708268,
+		"lat": 46.916455923912025,
+		"soil": "Antrosol",
+		"size": 100,
+		"label": 10
+    },
+	{
+		"pointname": "SIC_1_217",
+		"lon": 23.88374369209829,
+		"lat": 46.91564171986653,
+		"soil": "Regosol",
+		"size": 100,
+		"label": 0
+    },
+	{
+		"pointname": "SIC_3_218",
+		"lon": 23.88348749297348,
+		"lat": 46.912109858826284,
+		"soil": "Aluviosol",
+		"size": 100,
+		"label": 1
+    },
+	{
+		"pointname": "SIC_8_219",
+		"lon": 23.88913768179728,
+		"lat": 46.907996431918576,
+		"soil": "Faeoziom",
+		"size": 100,
+		"label": 4
+    },
+	{
+		"pointname": "SIC_18_220",
+		"lon": 23.894184087526472,
+		"lat": 46.90706367924284,
+		"soil": "Preluvosol",
+		"size": 100,
+		"label": 7
+    },
+	{
+		"pointname": "SIC_8_221",
+		"lon": 23.89613187521346,
+		"lat": 46.905452952716615,
+		"soil": "Faeoziom",
+		"size": 100,
+		"label": 4
+    },
+	{
+		"pointname": "SIC_2_222",
+		"lon": 23.88979146520143,
+		"lat": 46.90509455996363,
+		"soil": "Regosol",
+		"size": 100,
+		"label": 0
+    },
+	{
+		"pointname": "SIC_7_223",
+		"lon": 23.88693849813975,
+		"lat": 46.90397051994913,
+		"soil": "Faeoziom",
+		"size": 100,
+		"label": 3
+    },
+	{
+		"pointname": "SIC_11_224",
+		"lon": 23.881372819745906,
+		"lat": 46.904077610298515,
+		"soil": "Eutricambosol",
+		"size": 100,
+		"label": 6
+    },
+	{
+		"pointname": "SIC_8_225",
+		"lon": 23.882120081991893,
+		"lat": 46.91901688468437,
+		"soil": "Faeoziom",
+		"size": 100,
+		"label": 4
+    },
+	{
+		"pointname": "SIC_8_226",
+		"lon": 23.890943018021034,
+		"lat": 46.9227141150204,
+		"soil": "Faeoziom",
+		"size": 100,
+		"label": 4
+    },
+	{
+		"pointname": "SIC_8_227",
+		"lon": 23.886573563987547,
+		"lat": 46.92233598919057,
+		"soil": "Faeoziom",
+		"size": 100,
+		"label": 4
+    },
+	{
+		"pointname": "SIC_8_228",
+		"lon": 23.88191001208644,
+		"lat": 46.91910091264657,
+		"soil": "Faeoziom",
+		"size": 100,
+		"label": 4
+    },
+	{
+		"pointname": "SIC_8_229",
+		"lon": 23.886573563987547,
+		"lat": 46.92233598919057,
+		"soil": "Faeoziom",
+		"size": 100,
+		"label": 4
+    },
+	{
+		"pointname": "SIC_8_230",
+		"lon": 23.87871694952351,
+		"lat": 46.92157973753089,
+		"soil": "Faeoziom",
+		"size": 100,
+		"label": 4
+    },
+	{
+		"pointname": "SIC_8_231",
+		"lon": 23.87055015046873,
+		"lat": 46.924125455193376,
+		"soil": "Faeoziom",
+		"size": 100,
+		"label": 4
+    },
+	{
+		"pointname": "SIC_9_232",
+		"lon": 23.85883874297411,
+		"lat": 46.94353330273282,
+		"soil": "Faeoziom",
+		"size": 100,
+		"label": 4
+    },
+	{
+		"pointname": "SIC_9_233",
+		"lon": 23.87953366178392,
+		"lat": 46.947464929001825,
+		"soil": "Faeoziom",
+		"size": 100,
+		"label": 4
+    },
+	{
+		"pointname": "SIC_9_1_234",
+		"lon": 23.874744067939535,
+		"lat": 46.9457423557771,
+		"soil": "Faeoziom",
+		"size": 100,
+		"label": 4
+    },
+	{
+		"pointname": "SIC_9_235",
+		"lon": 23.884407283590484,
+		"lat": 46.94212915340327,
+		"soil": "Faeoziom",
+		"size": 100,
+		"label": 4
+    },
+	{
+		"pointname": "SIC_9_236",
+		"lon": 23.885205549231223,
+		"lat": 46.946540621417824,
+		"soil": "Faeoziom",
+		"size": 100,
+		"label": 4
+    },
+	{
+		"pointname": "SIC_9_1_237",
+		"lon": 23.884281241647216,
+		"lat": 46.94212915340324,
+		"soil": "Faeoziom",
+		"size": 100,
+		"label": 4
+    },
+	{
+		"pointname": "SIC_9_238",
+		"lon": 23.87839928429446,
+		"lat": 46.94507013207965,
+		"soil": "Faeoziom",
+		"size": 100,
+		"label": 4
+    },
+	{
+		"pointname": "SIC_8_239",
+		"lon": 23.876081518961684,
+		"lat": 46.95291091772236,
+		"soil": "Faeoziom",
+		"size": 100,
+		"label": 4
+    },
+	{
+		"pointname": "SIC_8_240",
+		"lon": 23.85043981939983,
+		"lat": 46.94409686646975,
+		"soil": "Faeoziom",
+		"size": 100,
+		"label": 4
+    },
+	{
+		"pointname": "SIC_9_241",
+		"lon": 23.86680606214825,
+		"lat": 46.95781828756486,
+		"soil": "Faeoziom",
+		"size": 100,
+		"label": 4
+    },
+	{
+		"pointname": "SIC_9_1_242",
+		"lon": 23.871049474238454,
+		"lat": 46.959288776903065,
+		"soil": "Faeoziom",
+		"size": 100,
+		"label": 4
+    },
+	{
+		"pointname": "SIC_9_2_243",
+		"lon": 23.870839404333,
+		"lat": 46.95912072097872,
+		"soil": "Faeoziom",
+		"size": 100,
+		"label": 4
+    },
+	{
+		"pointname": "SIC_9_244",
+		"lon": 23.873612327085013,
+		"lat": 46.95865856718672,
+		"soil": "Faeoziom",
+		"size": 100,
+		"label": 4
+    },
+	{
+		"pointname": "SIC_8_245",
+		"lon": 23.875280042171415,
+		"lat": 46.966075016626235,
+		"soil": "Faeoziom",
+		"size": 100,
+		"label": 4
+    },
+	{
+		"pointname": "SIC_8_246",
+		"lon": 23.886623817066027,
+		"lat": 46.96544480690986,
+		"soil": "Faeoziom",
+		"size": 100,
+		"label": 4
+    },
+	{
+		"pointname": "SIC_8_247",
+		"lon": 23.89145542489151,
+		"lat": 46.96523473700438,
+		"soil": "Faeoziom",
+		"size": 100,
+		"label": 4
+    },
+	{
+		"pointname": "SIC_8_248",
+		"lon": 23.885671528357257,
+		"lat": 46.908874524123405,
+		"soil": "Faeoziom",
+		"size": 100,
+		"label": 4
+    },
+	{
+		"pointname": "SIC_8_249",
+		"lon": 23.881234851954037,
+		"lat": 46.910630708533006,
+		"soil": "Faeoziom",
+		"size": 100,
+		"label": 4
+    },
+	{
+		"pointname": "SIC_8_250",
+		"lon": 23.877583836997218,
+		"lat": 46.909937477845006,
+		"soil": "Faeoziom",
+		"size": 100,
+		"label": 4
+    },
+	{
+		"pointname": "SIC_1_251",
+		"lon": 23.89229353725034,
+		"lat": 46.911852058772126,
+		"soil": "Regosol",
+		"size": 100,
+		"label": 0
+    },
+	{
+		"pointname": "SIC_1_252",
+		"lon": 23.891738952699935,
+		"lat": 46.915225781453756,
+		"soil": "Regosol",
+		"size": 100,
+		"label": 0
+    },
+	{
+		"pointname": "SIC_1_253",
+		"lon": 23.892293537250332,
+		"lat": 46.911852058772126,
+		"soil": "Regosol",
+		"size": 100,
+		"label": 0
+    },
+	{
+		"pointname": "SIC_1_254",
+		"lon": 23.896545352136755,
+		"lat": 46.910095874362526,
+		"soil": "Regosol",
+		"size": 100,
+        "label": 0
+	}
+]
